@@ -1,6 +1,5 @@
-package com.iraklyoda.baseapplication.ui.theme
+package com.iraklyoda.baseapplication.presentation.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

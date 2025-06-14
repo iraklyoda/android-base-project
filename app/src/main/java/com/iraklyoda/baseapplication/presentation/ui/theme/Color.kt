@@ -1,4 +1,4 @@
-package com.iraklyoda.baseapplication.ui.theme
+package com.iraklyoda.baseapplication.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
