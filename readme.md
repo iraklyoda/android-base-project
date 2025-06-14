@@ -4,6 +4,7 @@ A clean starter Android project with the following setup:
 
 ### ✅ Features:
 - [x] Kotlin + Android
+- [x] Jetpack Compose
 - [x] Retrofit2 with Kotlinx Serialization
 - [x] OkHttp + Logging Interceptor (debug-only)
 - [x] Hilt for Dependency Injection
